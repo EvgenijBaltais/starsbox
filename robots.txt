@@ -1,0 +1,23 @@
+User-agent: *
+
+Disallow: /cart
+Disallow: /glide
+Disallow: /libs
+Disallow: /node_modules
+Disallow: /plugins
+Disallow: /blog
+Disallow: /catalog/4
+Disallow: /catalog/6
+Disallow: /chat
+Disallow: /cart/
+Disallow: /glide/
+Disallow: /libs/
+Disallow: /node_modules/
+Disallow: /plugins/
+Disallow: /blog/
+Disallow: /catalog/4/
+Disallow: /catalog/6/
+Disallow: /chat/
+
+Host: https://bluebeans.ru
+Sitemap: https://bluebeans.ru/sitemap.xml

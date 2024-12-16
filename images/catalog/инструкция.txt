@@ -1,0 +1,4 @@
+
+Путь до картинки
+
+images/catalog/brands/brand_id/product_id.jpg

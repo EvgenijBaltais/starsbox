@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2024-05-15T19:26">
+  <shop>
+    <name>bluebeans.ru</name>
+    <company>Bluebeans.ru</company>
+    <url>https://bluebeans.ru</url>
+    <currencies>
+      <currency id="RUR" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Кофе в зернах</category>
+    </categories>
+    <delivery-options>
+      <option cost="500" days="1" />
+    </delivery-options>
+    <offers>
+      <offer id="1" available="true">
+        <name>Кофе в зернах Egoiste Arabica Premium Noir, 1кг</name>
+        <vendor>Egoiste</vendor>
+        <url>https://bluebeans.ru/catalog/egoiste-arabica-premium-noir-1kg</url>
+        <price>1999</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://bluebeans.ru/images/catalog/brands/1/1_m.png</picture>
+        <description>
+          <![CDATA[<p>Оптимальная обжарка и насыщенный аромат. Идеально подходит для американо и каппучино.</p>]]>
+        </description>
+      </offer>
+      <offer id="17" available="true">
+        <name>Кофе в зернах Bushido Red Katana, 1кг</name>
+        <vendor>Bushido</vendor>
+        <url>https://bluebeans.ru/catalog/bushido-red-katana-1kg</url>
+        <price>1999</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://bluebeans.ru/images/catalog/brands/17/1_m.png</picture>
+        <description>
+          <![CDATA[<p>Насыщенный вкус с умеренной горчинкой и прекрасным ароматом.</p>]]>
+        </description>
+      </offer>
+      <offer id="85" available="true">
+        <name>Кофе в зернах Bushido Black Katana, 1кг</name>
+        <vendor>Bushido</vendor>
+        <url>https://bluebeans.ru/catalog/bushido-black-katana-1kg</url>
+        <price>2399</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://bluebeans.ru/images/catalog/brands/85/1_m.png</picture>
+        <description>
+          <![CDATA[<p>Насыщенный аромат и вкус с очень легкой горчинкой и кислинкой. Сочетается с молоком.</p>]]>
+        </description>
+      </offer>
+      <offer id="35" available="true">
+        <name>Кофе в зернах Julius Meinl Президент классическая коллекция, 1кг</name>
+        <vendor>Julius Meinl</vendor>
+        <url>https://bluebeans.ru/catalog/julius-meinl-president-classic-collection-1kg</url>
+        <price>1799</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://bluebeans.ru/images/catalog/brands/35/1_m.png</picture>
+        <description>
+          <![CDATA[<p>Для любителей мягкого вкуса с легкими ореховыми нотками. Хорошо подходит для приготовления в кофемашине.</p>]]>
+        </description>
+      </offer>
+      <offer id="73" available="true">
+        <name>Кофе в зернах Jardin Colombia Supremo, 1кг</name>
+        <vendor>JARDIN</vendor>
+        <url>https://bluebeans.ru/catalog/jardin-colombia-supremo-1kg</url>
+        <price>1999</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://bluebeans.ru/images/catalog/brands/73/1_m.png</picture>
+        <description>
+          <![CDATA[<p>Сбалансированная смесь арабики и робусты.</p>]]>
+        </description>
+      </offer>
+      <offer id="51" available="true">
+        <name>Кофе в зернах Poetti (ex-PAULIG) Leggenda Oro, 1кг</name>
+        <vendor>Poetti</vendor>
+        <url>https://bluebeans.ru/catalog/poetti-leggenda-oro-1kg</url>
+        <price>1699</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://bluebeans.ru/images/catalog/brands/51/1_m.png</picture>
+        <description>
+          <![CDATA[<p>Для любителей не очень крепкого кофе. Средняя обжарка, спокойный мягкий вкус и аромат.</p>]]>
+        </description>
+      </offer>
+      <offer id="50" available="true">
+        <name>Кофе в зернах Poetti (ex-PAULIG) Leggenda Original, 1кг</name>
+        <vendor>Poetti</vendor>
+        <url>https://bluebeans.ru/catalog/poetti-leggenda-original-1kg</url>
+        <price>1699</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://bluebeans.ru/images/catalog/brands/50/1_m.png</picture>
+        <description>
+          <![CDATA[<p>Кофе средней обжарки для любителей мягкого вкуса. Присутствует ненавязчивый оттенок ягод и ореха.</p>]]>
+        </description>
+      </offer>
+      <offer id="12" available="true">
+        <name>Кофе в зернах Lavazza Rossa, 1кг</name>
+        <vendor>Lavazza</vendor>
+        <url>https://bluebeans.ru/catalog/lavazza-rossa-1kg</url>
+        <price>2799</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://bluebeans.ru/images/catalog/brands/12/1_m.png</picture>
+        <description>
+          <![CDATA[<p>Для любителей умеренно крепкого вкуса в сочетании с ярким бодрящим ароматом.</p>]]>
+        </description>
+      </offer>
+      <offer id="4" available="true">
+        <name>Кофе в зернах Egoiste Arabica Premium Espresso, 1кг</name>
+        <vendor>Egoiste</vendor>
+        <url>https://bluebeans.ru/catalog/egoiste-arabica-premium-espresso-1kg</url>
+        <price>2199</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://bluebeans.ru/images/catalog/brands/4/1_m.png</picture>
+        <description>
+          <![CDATA[<p>Для любителей насыщенного крепкого вкуса и бодрящего аромата кофейных зерен. Подходит для эспрессо и хорошо сочетается с молоком.</p>]]>
+        </description>
+      </offer>
+      <offer id="28" available="true">
+        <name>Кофе в зернах Kimbo Espresso, 1кг</name>
+        <vendor>Kimbo</vendor>
+        <url>https://bluebeans.ru/catalog/kimbo-espresso-1kg</url>
+        <price>1999</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://bluebeans.ru/images/catalog/brands/28/1_m.png</picture>
+        <description>
+          <![CDATA[<p>Крепкий, насыщенный и ароматный кофе придется по вкусу большинству любителей.</p>]]>
+        </description>
+      </offer>
+      <offer id="23" available="true">
+        <name>Кофе в зернах Kimbo Intenso, 1кг</name>
+        <vendor>Kimbo</vendor>
+        <url>https://bluebeans.ru/catalog/kimbo-intenso-1kg</url>
+        <price>1999</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://bluebeans.ru/images/catalog/brands/23/1_m.png</picture>
+        <description>
+          <![CDATA[<p>Для любителей крепкого ароматного кофе с густой пенкой и нотками шоколада.</p>]]>
+        </description>
+      </offer>
+      <offer id="7" available="true">
+        <name>Кофе в зернах Lavazza Qualita Oro, 1кг</name>
+        <vendor>Lavazza</vendor>
+        <url>https://bluebeans.ru/catalog/lavazza-qualita-oro-1kg</url>
+        <price>2299</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://bluebeans.ru/images/catalog/brands/7/1_m.png</picture>
+        <description>
+          <![CDATA[<p>Сбалансированный вкус, аромат и качество кофейных зерен создают неповторимое сочетание, которое так ценят любители.</p>]]>
+        </description>
+      </offer>
+      <offer id="72" available="true">
+        <name>Кофе в зернах Jardin Bravo Бразилия, 1кг</name>
+        <vendor>Jardin</vendor>
+        <url>https://bluebeans.ru/catalog/jardin-bravo-brasilia-1kg</url>
+        <price>2399</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://bluebeans.ru/images/catalog/brands/72/1_m.png</picture>
+        <description>
+          <![CDATA[<p>Сбалансированный вкус, аромат и качество кофейных зерен создают неповторимое сочетание, которое так ценят любители.</p>]]>
+        </description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
